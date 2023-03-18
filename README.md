@@ -10,6 +10,8 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusakio2001&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusakio2001)](https://github.com/viniciusakio2001/github-readme-stats)
 
+
+<h2>Linguagens que utilizo para desenvolver</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="vini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="vini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -18,6 +20,8 @@ Here are some ideas to get you started:
 </div>
 
 <hr>
+
+<h2> Minhas Redes</h2>
 <div>
 
   <a href="https://www.instagram.com/vini_hada/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
