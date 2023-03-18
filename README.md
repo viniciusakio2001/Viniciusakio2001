@@ -1,9 +1,5 @@
 ### Olá 👋 Eu sou Vinicius Akio
 
-**viniciusakio2001/Viniciusakio2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 eu estou atualmente trabalhando como suporte analista jr
 - 🌱 eu estou atualmente estudando e aprendendo javascript/typescript
 
