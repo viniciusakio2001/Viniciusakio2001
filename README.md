@@ -1,4 +1,4 @@
-### olá 👋 Eu sou Vinicius Akio
+### Olá 👋 Eu sou Vinicius Akio
 
 **viniciusakio2001/Viniciusakio2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
