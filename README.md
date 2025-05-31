@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou Vinicius Akio
 
 - 🔭 eu estou atualmente trabalhando como suporte analista jr
-- 🌱 eu estou atualmente estudando e aprendendo javascript/typescript
+- 🌱 eu estou atualmente estudando e aprendendo para ser um engenheiro de dados
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusakio2001&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusakio2001)](https://github.com/viniciusakio2001/github-readme-stats)
