@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou Vinicius Akio
 
-- 🔭 eu estou atualmente trabalhando como suporte analista jr
+- 🔭 eu estou atualmente trabalhando como suporte analista pl
 - 🌱 eu estou atualmente estudando e aprendendo para ser um engenheiro de dados
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciusakio2001&show_icons=true&theme=radical)
