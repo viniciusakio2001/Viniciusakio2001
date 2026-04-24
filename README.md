@@ -1,21 +1,12 @@
 <h1 align="center">Olá 👋 Eu sou Vinicius Akio</h1>
 
 <p align="center">
-  Analista de Suporte | Estudando para me tornar Engenheiro de Dados
+  Analista de Suporte | Em transição para Engenharia de Dados
 </p>
 
 ---
 
-### Sobre mim
-
-- 🔭 Atualmente trabalho como Analista de Suporte
-- 🌱 Estudando Engenharia de Dados
-- 💻 Interesses: SQL, Python, Power BI, Excel e Banco de Dados
-- 🚀 Buscando evoluir em pipelines, ETL, cloud e análise de dados
-
----
-
-### GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img 
@@ -30,20 +21,20 @@
 
 ---
 
-### Linguagens e Tecnologias
+### 🚀 Tecnologias
 
 <p align="center">
-  <img alt="JavaScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="HTML5" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="PostgreSQL" height="35" width="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="HTML5" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
 </p>
 
 ---
 
-### Minhas Redes
+### 📫 Contato
 
 <p align="center">
   <a href="https://www.instagram.com/vini_hada/" target="_blank">
